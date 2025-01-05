@@ -1,8 +1,6 @@
 void printAbout(){
     printf("系统名:kanban\n");
     printf("版本号:0.0.1\n");
-    printf("邮箱:Alizenty@outlook.com\n");
-    printf("开发日期:2025年1月4日\n");
     printf("开发语言:C语言\n");
     printf("开发环境:Windows\n");
     printf("开发工具:Dev-C++\n");
@@ -28,9 +26,6 @@ void printHelp(){
     printf("    这是一个非常棒的项目，它可以帮助你管理工作任务，并将其分成不同的看板。\n");
     printf("    你应该尝试一下这个项目，看看它是否能帮助你提高工作效率。\n");
     printf("\n");
-    printf("系统持续开发中，欢迎大家提出宝贵意见！\n");
-    printf("你可以通过以下方式联系到作者：\n");
-    printf("    邮箱:Alizenty@outlook.com\n");
     printf("你可以在以下地址查看项目源代码：\n");
     printf("    https://github.com/zhangsanlzh/kanban\n");
     printf("    祝你好运！\n");
