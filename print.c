@@ -22,7 +22,7 @@ void printHelp(){
     printf("    0.0.1版本添加了登录管理，允许多用户同时使用，每个用户都有自己的用户名和密码。\n");
     printf("    同时，系统将对每个用户的数据进行独立存储，用户可以到系统文件中的data文件夹中找到自己的数据文件。\n");
     printf("    未实现对暂时数据的缓存，如果是非正常退出，那么本次操作的数据将丢失！\n"); 
-	printf("    暂时为对用户的数据进行加密处理，请不要在系统中存储重要数据！\n"); 
+    printf("    暂时为对用户的数据进行加密处理，请不要在系统中存储重要数据！\n"); 
     printf("\n");
     printf("编者的话：\n");
     printf("    这是一个非常棒的项目，它可以帮助你管理工作任务，并将其分成不同的看板。\n");
@@ -30,7 +30,6 @@ void printHelp(){
     printf("\n");
     printf("系统持续开发中，欢迎大家提出宝贵意见！\n");
     printf("你可以通过以下方式联系到作者：\n");
-    printf("    易梦翰(8007124056)\n");
     printf("    邮箱:Alizenty@outlook.com\n");
     printf("你可以在以下地址查看项目源代码：\n");
     printf("    https://github.com/zhangsanlzh/kanban\n");
